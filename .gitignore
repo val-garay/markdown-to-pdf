@@ -1,0 +1,19 @@
+# Virtual environment
+bin
+include
+lib
+lib64
+share
+pyvenv.cfg
+
+# Vscode Settings
+.vscode
+
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
